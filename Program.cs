@@ -8,6 +8,10 @@ namespace Lab_01
 {
     internal class Program
     {
+           /// <summary>
+        /// Calculate the market value for the investment based on user-input interest rate, 
+        /// growth rate, dividend and number of shares. 
+        /// </summary>
         static void Main(string[] args)
         {
 
