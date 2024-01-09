@@ -1,0 +1,7 @@
+C:\Users\simus\OneDrive\Software Developer\DSA\Lab-01\bin\Debug\Lab-01.exe.config
+C:\Users\simus\OneDrive\Software Developer\DSA\Lab-01\bin\Debug\Lab-01.exe
+C:\Users\simus\OneDrive\Software Developer\DSA\Lab-01\bin\Debug\Lab-01.pdb
+C:\Users\simus\OneDrive\Software Developer\DSA\Lab-01\obj\Debug\Lab-01.csproj.AssemblyReference.cache
+C:\Users\simus\OneDrive\Software Developer\DSA\Lab-01\obj\Debug\Lab-01.csproj.CoreCompileInputs.cache
+C:\Users\simus\OneDrive\Software Developer\DSA\Lab-01\obj\Debug\Lab-01.exe
+C:\Users\simus\OneDrive\Software Developer\DSA\Lab-01\obj\Debug\Lab-01.pdb
